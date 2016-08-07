@@ -1,3 +1,29 @@
 <resources>
     <string name="app_name">AnnictForAndroid</string>
+    <!-- oauth activity -->
+    <string name="oauth_base">↑まずは上のweb認証。認証が完了するとコードが表示されるので下のボックスに入力してください↓</string>
+    <string name="oauth_text">Web認証</string>
+    <string name="oauth_text2">Web認証ボタン</string>
+    <string name="oauth_text_success">成功しました</string>
+    <string name="oauth_login1">認証コード</string>
+    <string name="oauth_login2">送信</string>
+    <string name="oauth_success">認証に成功</string>
+    <string name="oauth_failed">認証に失敗。認証コードやネットワーク環境を見直してください。</string>
+    <string name="oauth_nullCode">認証コードを入力してください</string>
+
+    <!-- state spinner -->
+    <string name="spinner_init">ステータスを選択してください</string>
+    <string name="spinner_wanna">見たい</string>
+    <string name="spinner_watching">見ている</string>
+    <string name="spinner_watched">見た</string>
+    <string name="spinner_hold">中断</string>
+    <string name="spinner_stop">中止</string>
+    <string name="spinner_no_select">未選択</string>
+    <string name="spinner_selected">（選択中）</string>
+    <string name="spinner_changed_success">ステータスの変更に成功</string>
+    <string name="spinner_changed_failed">ネットワークエラーです。ステータスの変更に失敗しました。</string>
+
+    <!-- cardView -->
+    <string name="cardview_state">状態:</string>
+    <string name="cardview_score">視聴者:</string>
 </resources>
